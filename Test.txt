@@ -1,0 +1,61 @@
+﻿int a,b; 
+A();
+Func A()
+{
+	switch(a)
+	{
+		case>10:
+		case<20:
+		/*
+		switch(b)
+		{
+			case>1:
+			case>2:
+		}
+		case<30:
+		*/
+	}
+}
+/*int a;
+string b;
+float c;
+A();
+A(int a;);
+A(int a,b;);
+B(float a;);
+B();
+C();
+C(int a;);
+Func A()
+{
+  string c ; 
+  
+
+}
+
+Func A(int a,int b)
+{
+ string c;
+	
+	a = 10 +1 * 2 ; 
+	call A(10,11);
+	call C(1);
+	switch(c+c-$sd$)
+	{
+		case>=$a$+$b$:
+		case> $g$: 
+		   switch(1){
+		     case < 2 : 
+		}
+		case > $ff$:
+		default:
+		c = $b$;
+	}
+	call A(1);
+	call A(1,2);
+	call A(1,1); 
+	call A(1111111,222222);
+	
+}
+
+*/
